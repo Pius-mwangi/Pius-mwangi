@@ -8,4 +8,4 @@ Hello, I'm Pius, a software engineer hailing from Nairobi, Kenya. I've embarked 
 
 
 
-[![Pius' GitHub stats](https://github-readme-stats.vercel.app/api?username=aPius-mwangi)](https://github.com/anuraghaza/github-readme-stats)
+[![Pius' GitHub stats](https://github-readme-stats.vercel.app/api?username=Pius-mwangi)](https://github.com/anuraghaza/github-readme-stats)
