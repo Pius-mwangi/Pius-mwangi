@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cybersecurity+Specialist;Open-Source+Enthusiast;AI+%7C+Blockchain+Explorer" alt="Typing Animation" />
 
   [![Visits Badge](https://komarev.com/ghpvc/?username=Pius-mwangi&label=PROFILE+VIEWS&color=0d1117&style=for-the-badge)](https://github.com/Pius-mwangi)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/yourhandle)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/ourhandle?color=1DA1F2&logo=twitter&style=for-the-badge)](https://instagram.com/piouware)
 
 </div>
 
