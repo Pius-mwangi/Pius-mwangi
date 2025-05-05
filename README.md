@@ -35,51 +35,62 @@
 ! Rust           ████░░░░░░ 40%  [★★★★☆☆☆☆☆☆] (learning)
 - Java           █████░░░░░ 50%  [★★★★★☆☆☆☆☆]
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pius-mwangi&show_icons=true&theme=radical&hide_border=true)](https://github.com/Pius-mwangi)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pius-mwangi&show_icons=true&theme=radical&hide_border=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pius-mwangi&layout=compact&theme=radical&hide_border=true)](https://github.com/Pius-mwangi)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pius-mwangi&layout=compact&theme=radical&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pius-mwangi&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Pius-mwangi&theme=radical&hide_border=true)
 
 </div>
+
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Pius-mwangi&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Pius-mwangi&theme=onedark&row=1&margin-w=15)
 
 </div>
 
+---
+
 ## 🚧 Current Projects
 
-### 🔐 SecureAuth Framework
-> Next-gen authentication system with zero-trust principles  
-> ![Progress](https://progress-bar.dev/75/?title=Progress)
+### 🔐 SecureAuth Framework  
+Next-generation authentication system based on zero-trust principles.  
+![Progress](https://progress-bar.dev/75/?title=Progress)
 
-### 🤖 AI-Powered Threat Detection
-> Machine learning model for anomaly detection  
-> ![Python](https://img.shields.io/badge/Python-3776AB?logo=python) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
+### 🤖 AI-Powered Threat Detection  
+Machine learning model for real-time anomaly detection.  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
+
+---
 
 ## 📚 Latest Blog Posts
 
 - [Bypassing Modern WAFs with GraphQL Injection](https://example.com)
-- [Building Secure Microservices in Node.js](https://example.com)  
+- [Building Secure Microservices in Node.js](https://example.com)
 - [The Art of Social Engineering](https://example.com)
+
+---
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank)](https://hackerrank.com)
 
 </div>
+
+---
 
 <div align="center">
 
