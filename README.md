@@ -13,25 +13,24 @@
 
 ---
 
-## 🧑‍💻 **About Me**
+## 🔥 **Tech Stack Superpowers**
 
-```python
-class PiusMwangi:
-    def __init__(self):
-        self.name = "Pius Mwangi"
-        self.role = "Software Engineer | Cybersecurity Consultant"
-        self.location = "Nairobi, Kenya 🇰🇪"
-        self.skills = {
-            "frontend": ["React", "Next.js", "TailwindCSS"],
-            "backend": ["Node.js", "Flask", "Django"],
-            "cybersecurity": ["Pen Testing", "Threat Modeling", "OWASP Top 10"],
-            "devops": ["AWS", "Docker", "Kubernetes"]
-        }
-    
-    def motto(self):
-        return "Building secure, scalable systems with elegant code."
-    
-    def currently_learning(self):
-        return ["AI Security", "Blockchain Pentesting", "Rust"]
+### 🛡️ **Security Arsenal**
 
-me = PiusMwangi()
+| Category       | Tools                                                                 |
+|----------------|-----------------------------------------------------------------------|
+| **Pentesting** | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-258FFA?logo=metasploit&logoColor=white) |
+| **Forensics**  | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white) ![Volatility](https://img.shields.io/badge/Volatility-000000?logo=volatility) |
+| **Hardening**  | ![SELinux](https://img.shields.io/badge/SELinux-000000?logo=selinux) ![AppArmor](https://img.shields.io/badge/AppArmor-00D1B2?logo=apparmor) |
+
+### 💻 **Development Toolkit**
+
+```diff
+# Legend:
++ = Mastered    ! = Learning    - = Basic Knowledge
+
++ React.js       ██████████ 100% [★★★★★★★★★★]
++ Node.js        █████████░ 90%  [★★★★★★★★★☆]
++ Python         ████████░░ 80%  [★★★★★★★★☆☆]
+! Rust           ████░░░░░░ 40%  [★★★★☆☆☆☆☆☆] (learning)
+- Java           █████░░░░░ 50%  [★★★★★☆☆☆☆☆]
